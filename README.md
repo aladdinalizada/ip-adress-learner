@@ -13,7 +13,23 @@ This is a simple internet speed tester built using React. It allows users to che
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/internet-speed-tester.git
+git clone https://github.com/aladdinalizada/speed-tester
+```
+2. Navigate into the project directory:
+```bash
+cd speed-tester
+```
+3. Install dependencies:
+```bash
+npm install
+```
+4. Start the development server:
+```bash
+npm run dev
+```
+
+
+Open your browser and go to http://localhost:5173 to view the app.
