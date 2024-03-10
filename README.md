@@ -1,14 +1,17 @@
-# Internet Speed Tester
+# IP Address Learner
 
-This is a simple internet speed tester built using React. It allows users to check their current internet speed by clicking a button.
+IP Address Learner is a web application built with React that helps users learn about IP addresses, including their types and usage.
+
+
 
 <img title="cover-photo" src="./public/downland.png">
 
 
 ## Features
 
-- **Easy to Use:** Simply click the "Test Speed" button to check your current internet speed.
-- **Real-time Results:** Get instant feedback on your internet speed.
+- **IP Address Information:** Learn about the different types of IP addresses, including IPv4 and IPv6.
+- **Geolocation:** Find the geolocation information associated with an IP address.
+- **IP Address Validation:** Validate IP addresses to ensure they are formatted correctly.
 - **Responsive Design:** Works well on both desktop and mobile devices.
 
 ## Installation
